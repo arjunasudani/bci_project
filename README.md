@@ -1,4 +1,4 @@
-# EEG Data Analysis and Classification Project
+# Movement Direction Classification for Brain Computer Interfaces
 
 ## Overview
 This project involves the analysis and classification of EEG data collected using the EMOTIV Insight EEG device. The dataset contains power spectral density (PSD) values for five electrode channels (AF3, AF4, T7, T8, Pz) across different frequency bands (Theta, Alpha, Beta Low, Beta High, Gamma). The goal is to explore, preprocess, and build a machine learning model to classify mental states corresponding to:
